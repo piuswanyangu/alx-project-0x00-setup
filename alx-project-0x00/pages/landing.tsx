@@ -8,7 +8,7 @@ const Landing: React.FC = () => {
             <Card />
             <Card />
             <Card />
-            <Button title={"Home"} style={"rounded-sm"}/>
+            <Button title={"Home"} styles={"rounded-sm"}/>
         </div>
     )
 }
